@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+#header_img {
+    background-image: url("img/home_image.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+.nav_menu {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.link_menu {
+    color: white;
+    font-weight: bold;
+}
+
+#titulo_home {
+    color: white;
+    text-align: center;
+}
+
+.p_home {
+    color: white;
+    text-align: left;
+}
+
+#hr_home {
+    border-width: 1px;
+    border-color: grey;
+    width: 70%;
+}
+
+.card_home {
+    padding: 40px;
+}
+
+.img_card {
+    height: 200px;
+    width: 100%;
+}
